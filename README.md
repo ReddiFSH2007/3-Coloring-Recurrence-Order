@@ -28,7 +28,7 @@ g++ -O3 -march=native -fopenmp main.cpp -o main
 ```
 ## Expected Output
 ```bash
-1 1 2 3 5 7 13 19 35 51 96 141 267 393 750
+1 1 2 3 5 7 13 19 35 51 96 141 267 393 750 1107 2123 3139 6046 8953
 ```
 
 ### Algorithmic Highlights
